@@ -10,6 +10,18 @@ HTML {
   font-size: 62.5%;
 }
 
+@media screen and (max-height: 450px) {
+  HTML {
+    font-size: 7px;
+  }
+}
+
+@media screen and (max-height: 400px) {
+  HTML {
+    font-size: 6px;
+  }
+}
+
 @media screen and (max-width: 500px) {
   HTML {
     font-size: 6px;
