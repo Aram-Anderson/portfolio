@@ -1,7 +1,10 @@
 {
-  "main.css": "static/css/main.fb8459d7.css",
-  "main.css.map": "static/css/main.fb8459d7.css.map",
-  "main.js": "static/js/main.c5dadd61.js",
-  "main.js.map": "static/js/main.c5dadd61.js.map",
+  "main.css": "static/css/main.06df78ff.css",
+  "main.css.map": "static/css/main.06df78ff.css.map",
+  "main.js": "static/js/main.6c6efac9.js",
+  "main.js.map": "static/js/main.6c6efac9.js.map",
+  "static/media/App.scss": "static/media/App.13c19781.scss",
+  "static/media/bars.svg": "static/media/bars.680c6b38.svg",
+  "static/media/close.svg": "static/media/close.6f0a36b9.svg",
   "static/media/hero-code.png": "static/media/hero-code.07197b48.png"
 }
